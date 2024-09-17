@@ -4,16 +4,37 @@ Este repositório contém o artigo científico intitulado **"Integração de Mod
 
 ## Conteúdo
 
-- **Artigo Científico**: [CBA_2024_paper_6774.pdf](./CBA_2024_paper_6774.pdf)
-- **Áudio**: [CBA_2024_paper_6774.wav](./CBA_2024_paper_6774.wav)
+- **Arquivo Zip**: [CBA_2024_paper_6774.zip](./CBA_2024_paper_6774.zip)  
+  O arquivo zip contém:
+  - O artigo científico em formato PDF
+  - O áudio correspondente em formato WAV
 
 ## Como Usar
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/conect2ai/cba-manual-paper-to-audio.git
-```
-2. Acesse o diretório do repositório:
-```bash
-cd cba-manual-paper-to-audio 
-```
+- Clone este repositório utilizando o seguinte comando:
+
+  ```bash
+  git clone https://github.com/conect2ai/cba-manual-paper-to-audio.git
+  ```
+
+- Acesse o diretório do repositório:
+
+  ```bash
+  cd cba-manual-paper-to-audio
+  ```
+
+### Para extrair no Windows:
+
+1. Clique com o botão direito no arquivo `CBA_2024_paper_6774.zip`.
+2. Selecione **"Extrair tudo..."** no menu.
+3. Escolha o local de destino para os arquivos extraídos e clique em **"Extrair"**.
+
+### Para extrair no Linux/macOS:
+
+- Use o seguinte comando no terminal:
+
+  ```bash
+  unzip CBA_2024_paper_6774.zip
+  ```
+
+- Após a extração, abra o artigo em PDF ou ouça o áudio, conforme preferir.
